@@ -6,6 +6,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 ## Dokumentasi 
 
-Dashboard Admin
-<img src="https://user-images.githubusercontent.com/94098023/215372562-76ef88ca-472c-409e-8b17-fc8cb38a07f2.png" width="700" alt="Dashboard Admin">
+Dashboard Admin <br>
+<img src="https://user-images.githubusercontent.com/94098023/215372562-76ef88ca-472c-409e-8b17-fc8cb38a07f2.png" width="900" alt="Dashboard Admin">
 
